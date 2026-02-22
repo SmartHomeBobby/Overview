@@ -1,0 +1,12 @@
+[submodule "infrastructure/Orchestrator"]
+	path = infrastructure/Orchestrator
+	url = git@github.com:SmartHomeBobby/Orchestrator.git
+[submodule "infrastructure/Contracts"]
+	path = infrastructure/Contracts
+	url = git@github.com:SmartHomeBobby/Contracts.git
+[submodule "userspecific/MyWorkflows"]
+	path = userspecific/MyWorkflows
+	url = git@github.com:SmartHomeBobby/MyWorkflows.git
+[submodule "infrastructure/MQTTSetup"]
+	path = infrastructure/MQTTSetup
+	url = git@github.com:SmartHomeBobby/MQTT.git
