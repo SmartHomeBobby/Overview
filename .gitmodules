@@ -10,3 +10,6 @@
 [submodule "infrastructure/MQTTSetup"]
 	path = infrastructure/MQTTSetup
 	url = git@github.com:SmartHomeBobby/MQTT.git
+[submodule "modules/testEventSystemModule"]
+	path = modules/testEventSystemModule
+	url = git@github.com:SmartHomeBobby/Module-TestEventSystem.git
