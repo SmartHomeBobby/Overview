@@ -13,3 +13,6 @@
 [submodule "modules/testEventSystemModule"]
 	path = modules/testEventSystemModule
 	url = git@github.com:SmartHomeBobby/Module-TestEventSystem.git
+[submodule "modules/localLLMAgentModule"]
+	path = modules/localLLMAgentModule
+	url = git@github.com:SmartHomeBobby/Module-LLMAgent.git
