@@ -16,3 +16,6 @@
 [submodule "modules/localLLMAgentModule"]
 	path = modules/localLLMAgentModule
 	url = git@github.com:SmartHomeBobby/Module-LLMAgent.git
+[submodule "modules/localCodingCrewModule"]
+	path = modules/localCodingCrewModule
+	url = git@github.com:SmartHomeBobby/Module-CodingCrew.git
